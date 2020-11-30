@@ -1,5 +1,5 @@
 # xdp_ebpf
-Small test over article "Primer: How XDP and eBPF Speed Network Traffic via the Linux Kernel" by Jack Wallen (https://thenewstack.io/primer-how-xdp-and-ebpf-speed-network-traffic-via-the-linux-kernel/).
+Small test over article [Primer: How XDP and eBPF Speed Network Traffic via the Linux Kernel](https://thenewstack.io/primer-how-xdp-and-ebpf-speed-network-traffic-via-the-linux-kernel/) by [Jack Wallen](https://github.com/jlwallen).
 
 It was checked with WSL2.
 
